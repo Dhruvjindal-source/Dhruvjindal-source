@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dhruvjindal-source
 - 👀 I’m interested in doing web development.
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and stress management alongside
 - 💞️ I’m looking to collaborate on common interests
 - 😄 Pronouns: fun/geek
 - ⚡ Fun fact: You learn something everyday.
